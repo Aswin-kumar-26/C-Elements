@@ -157,8 +157,6 @@ Vector3 spawnPosition = arCamera.transform.position + arCamera.transform.forward
 
 ## Contributors
 
-<a href="https://github.com/Aswin-kumar-26"><img src="https://github.com/Aswin-kumar-26.png" width="80"/></a>
-<a href="https://github.com/hari-prasanth-20"><img src="https://github.com/hari-prasanth-20.png" width="80"/></a>
 
 | Name             | GitHub Profile                                        |
 |------------------|--------------------------------------------------------|
