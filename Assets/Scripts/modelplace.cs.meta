@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6da12bba137d0464c80ce220fe7c3321
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - beaker: {fileID: 7871957520308641054, guid: be39190d4af26a44bab8c55226577648, type: 3}
+  - testTube1: {instanceID: 0}
+  - testTube2: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
